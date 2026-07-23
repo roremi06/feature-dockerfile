@@ -13,7 +13,6 @@
 ## Folder Structure
 
 VigilGit/
-
 │
 ├── Backend/
 │   ├── main.py           # FastAPI application & GitHub webhook listener
