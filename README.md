@@ -12,7 +12,6 @@
 
 ## Folder Structure
 VigilGit/
-│
 ├── Backend/
 │   ├── main.py           # FastAPI application & GitHub webhook listener
 │   ├── scanner.py        # Yelp detect-secrets integration engine
@@ -23,7 +22,6 @@ VigilGit/
     │   └── index.html    # Public landing page with the [Install on GitHub] button
     └── static/
         └── logo.svg      # Project logo and styling assets
-
 ## How to Install Application
 * **Step 1**: Clone the Github repository and CD:
 	git clone https://github.com/Chenna-K/VigilGit.git
