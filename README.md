@@ -11,7 +11,6 @@
 * **Integration:** GitHub Apps and Webhooks API
 
 ## Folder Structure
-
 VigilGit/
 │
 ├── Backend/
@@ -20,11 +19,10 @@ VigilGit/
 │   └── requirements.txt  # Python package dependencies
 │
 └── Front-End/
-	
     ├── templates/
-    │   └── index.html    
+    │   └── index.html    # Public landing page with the [Install on GitHub] button
     └── static/
-        └── logo.svg
+        └── logo.svg      # Project logo and styling assets
 
 ## How to Install Application
 * **Step 1**: Clone the Github repository and CD:
